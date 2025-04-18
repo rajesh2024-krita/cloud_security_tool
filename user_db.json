@@ -1,0 +1,12 @@
+{
+    "admin": {
+        "password": "admin123",
+        "failed_attempts": 0,
+        "locked": false
+    },
+    "employee": {
+        "password": "emp456",
+        "failed_attempts": 0,
+        "locked": false
+    }
+}
